@@ -869,9 +869,9 @@ const quiz = [
     {
         "q": "86. Решить дифференциальное уравнение: y'' + 2y' + 5y = 0.",
         "options": [
-            "y = e^x(C₁cos(2x) + C₂sin(2x))",
+            "y = e^-x(C₁cos(2x) + C₂sin(2x))",
             "y = C₁cos(2x) + C₂sin(2x)",
-            "y = e^{-x}(C₁cos(2x) + C₂sin(2x))",
+            "y = e^x(C₁cos(2x) + C₂sin(2x))",
             "y = C₁x^2 + C₂x"
         ],
         "answer": 0
